@@ -53,34 +53,23 @@ Python notebooks :
 				responder gender. The results stored from R files were used again in this script to plot 
 				first 40 frequent words and their weighted log odds.
 
-7. model reddit responses gender classification using responder gender.ipynb :	codes to calculate accuracy of gender identification 
-				of poster using texts from responders and responder gender using reddit data.
+7. model reddit responses gender classification using responder gender.ipynb :	codes to calculate accuracy of gender identification of poster using texts from responders and responder gender using reddit data.
 
-8. model fitness responses gender classification using responder gender.ipynb :	codes to calculate accuracy of gender identification 
-				of poster using texts from responders and responder gender using fitocracy data.
+8. model fitness responses gender classification using responder gender.ipynb :	codes to calculate accuracy of gender identification of poster using texts from responders and responder gender using fitocracy data.
 
-9. Effect of Sentiments and Relevance of comments on Gender Posts.ipynb : On annotated dataset for responders comments about 
-				comments relevance and emotives, replicating findings from the paper using ratio of posts and 
-				responses methods 
+9. Effect of Sentiments and Relevance of comments on Gender Posts.ipynb : On annotated dataset for responders comments about comments relevance and emotives, replicating findings from the paper using ratio of posts and responses methods 
 
 R scripts : 
 
-1. weights_log_odds_facebook_politicians.R : to calculate weighted log odd ratios for poster content by their gender 
-						in facebook politicians posts dataset (to find significant words for 	
-						particular group)
+1. weights_log_odds_facebook_politicians.R : to calculate weighted log odd ratios for poster content by their gender in facebook politicians posts dataset (to find significant words for particular group)
 
 
-2. weights_log_odds_facebook_wiki.R : to calculate weighted log odd ratios for poster content by their gender 
-						in facebook public figures posts dataset 
+2. weights_log_odds_facebook_wiki.R : to calculate weighted log odd ratios for poster content by their gender in facebook public figures posts dataset 
 
-3. weights_log_odds_fitness.R : to calculate weighted log odd ratios for poster content by their gender 
-						in fitness posts from fitocracy dataset 
+3. weights_log_odds_fitness.R : to calculate weighted log odd ratios for poster content by their gender in fitness posts from fitocracy dataset 
 
-4. weights_log_odds_reddit.R : to calculate weighted log odd ratios for poster content by their gender 
-						in reddit posts from reddit dataset 
+4. weights_log_odds_reddit.R : to calculate weighted log odd ratios for poster content by their gender in reddit posts from reddit dataset 
 
-5. weights_log_odds_fitness_responses.R : to calculate weighted log odd ratios for responder content by responder and 
-					poster gender in fitocracy dataset.
+5. weights_log_odds_fitness_responses.R : to calculate weighted log odd ratios for responder content by responder and poster gender in fitocracy dataset.
 						
-6. weights_log_odds_reddit_responses.R : to calculate weighted log odd ratios for responder content by responder and 
-					poster gender in reddit dataset.
+6. weights_log_odds_reddit_responses.R : to calculate weighted log odd ratios for responder content by responder and poster gender in reddit dataset.
