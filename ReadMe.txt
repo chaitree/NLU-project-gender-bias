@@ -1,10 +1,10 @@
-Replication of results from the paper - Voigt, R., Jurgens, D., Prabhakaran, V., Jurafsky, D., & Tsvetkov, Y. (2018). RtGender: A Corpus for Studying Differential Responses to Gender. International Conference on Language Resources and Evaluation.
+*Replication of results from the paper - Voigt, R., Jurgens, D., Prabhakaran, V., Jurafsky, D., & Tsvetkov, Y. (2018). RtGender: A Corpus for Studying Differential Responses to Gender. International Conference on Language Resources and Evaluation.*
 
-Additional work 1. finding significant words used by poster according to their gender 
-		2. Accuracy of identifying posters gender using responders text and along with responder gender and comparison with accuracy of identifying poster 		      gender using their posts
+*Additional work* 1. finding significant words used by poster according to their gender 
+		2. Accuracy of identifying posters gender using responders text and along with responder gender and comparison with accuracy of identifying poster gender using their posts
 
 
-File descriptions 
+*File descriptions* 
 
 Python notebooks :
 
